@@ -37,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hykim1.github.io/portfolio/"
+  "homepage": "https://hykim1.github.io/portfolio/",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
